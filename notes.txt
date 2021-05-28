@@ -1,0 +1,7 @@
+useState - variable which is used to store information
+which refreshes every time the app refresh
+(way to declare variable in react)
+
+useEffect (React hooks) - A snippit of code which runs on a
+specific condition
+
